@@ -1,0 +1,39 @@
+.hoofd-header{
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+
+
+a{
+color: black;
+text-decoration: none;
+font-weight: bold;
+text-align: center;
+font-family: sans-serif;
+}
+    
+a:hover{
+color: grey
+}
+
+.NLvlag{
+max-width: 70%;
+ border-top: 10px;
+}
+
+.PLvlag{
+    max-width: 70%;
+    border-top: 10px;
+    
+    }
+
+
+p{
+    text-align: center;
+}
+
+body{
+    background-color: #f7f7f7;
+}
